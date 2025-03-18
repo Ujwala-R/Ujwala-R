@@ -3,7 +3,7 @@
 ### 🚀 AI Enthusiast | Full-Stack Developer | Tech Innovator  
 
 🔹 Passionate about AI-driven automation and multilingual chatbots  
-🔹 Building smart solutions for finance, museums, and businesses  
+🔹 Building smart solutions for a network web app and businesses  
 🔹 Exploring cloud computing, DevOps, and scalable architectures 
 
 🔥 Featured Projects  
